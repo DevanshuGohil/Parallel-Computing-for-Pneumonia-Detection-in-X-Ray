@@ -1,0 +1,17 @@
+Using 2 GPUs with a batch size of 32.
+Starting Training on Rank 1.
+Rank 1, Epoch 0, Batch 81, Loss: 0.18827353417873383, Accuracy: 0.8891437308868502 ,Time: 103.08764457702637
+Rank 1, Epoch 1, Batch 81, Loss: 0.07371024787425995, Accuracy: 0.9145642201834863 ,Time: 101.27613592147827
+Rank 1, Epoch 2, Batch 81, Loss: 0.1073046624660492, Accuracy: 0.9243119266055045 ,Time: 101.4025490283966
+Rank 1, Epoch 3, Batch 81, Loss: 0.045277226716279984, Accuracy: 0.9314793577981652 ,Time: 101.34273362159729
+Rank 1, Epoch 4, Batch 81, Loss: 0.06124204024672508, Accuracy: 0.936085626911315 ,Time: 101.47333979606628
+Training Complete on Rank 1.
+Starting Training on Rank 0.
+Rank 0, Epoch 0, Batch 81, Loss: 0.1817474216222763, Accuracy: 0.9002293577981652 ,Time: 103.09415817260742
+Rank 0, Epoch 1, Batch 81, Loss: 0.24820981919765472, Accuracy: 0.9193425076452599 ,Time: 101.28418350219727
+Rank 0, Epoch 2, Batch 81, Loss: 0.1961371898651123, Accuracy: 0.9255861365953109 ,Time: 101.39721012115479
+Rank 0, Epoch 3, Batch 81, Loss: 0.19010262191295624, Accuracy: 0.9298547400611621 ,Time: 101.32622337341309
+Rank 0, Epoch 4, Batch 81, Loss: 0.16365553438663483, Accuracy: 0.9331804281345566 ,Time: 101.48943209648132
+Training completed in 510.63 seconds.
+Training Complete on Rank 0.
+Model saved on Rank 0.

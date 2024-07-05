@@ -1,0 +1,31 @@
+Using 4 GPUs with a batch size of 256.
+Starting Training on Rank 1.
+Rank 1, Epoch 0, Batch 5, Loss: 0.47947758436203003, Accuracy: 0.6628440366972477 ,Time: 100.43624019622803
+Rank 1, Epoch 1, Batch 5, Loss: 0.3324872553348541, Accuracy: 0.7217125382262997 ,Time: 98.10500693321228
+Rank 1, Epoch 2, Batch 5, Loss: 0.29981017112731934, Accuracy: 0.7749745158002038 ,Time: 98.23375105857849
+Rank 1, Epoch 3, Batch 5, Loss: 0.17550285160541534, Accuracy: 0.8107798165137615 ,Time: 98.02472162246704
+Rank 1, Epoch 4, Batch 5, Loss: 0.14848566055297852, Accuracy: 0.8353211009174312 ,Time: 97.92713642120361
+Training Complete on Rank 1.
+Starting Training on Rank 3.
+Rank 3, Epoch 0, Batch 5, Loss: 0.43271079659461975, Accuracy: 0.6712538226299695 ,Time: 100.43139481544495
+Rank 3, Epoch 1, Batch 5, Loss: 0.415496826171875, Accuracy: 0.7274464831804281 ,Time: 98.14152026176453
+Rank 3, Epoch 2, Batch 5, Loss: 0.23914135992527008, Accuracy: 0.7805810397553516 ,Time: 98.21589827537537
+Rank 3, Epoch 3, Batch 5, Loss: 0.1737830489873886, Accuracy: 0.8157492354740061 ,Time: 98.01336145401001
+Rank 3, Epoch 4, Batch 5, Loss: 0.142233744263649, Accuracy: 0.8391437308868501 ,Time: 97.93931674957275
+Training Complete on Rank 3.
+Starting Training on Rank 2.
+Rank 2, Epoch 0, Batch 5, Loss: 0.44667497277259827, Accuracy: 0.6674311926605505 ,Time: 100.43913793563843
+Rank 2, Epoch 1, Batch 5, Loss: 0.4810931086540222, Accuracy: 0.7274464831804281 ,Time: 98.12355422973633
+Rank 2, Epoch 2, Batch 5, Loss: 0.19821235537528992, Accuracy: 0.7854230377166157 ,Time: 98.22948813438416
+Rank 2, Epoch 3, Batch 5, Loss: 0.307512104511261, Accuracy: 0.8191896024464832 ,Time: 98.03131151199341
+Rank 2, Epoch 4, Batch 5, Loss: 0.18299813568592072, Accuracy: 0.8418960244648318 ,Time: 97.91525387763977
+Training Complete on Rank 2.
+Starting Training on Rank 0.
+Rank 0, Epoch 0, Batch 5, Loss: 0.48449406027793884, Accuracy: 0.6383792048929664 ,Time: 100.42763471603394
+Rank 0, Epoch 1, Batch 5, Loss: 0.36578020453453064, Accuracy: 0.7018348623853211 ,Time: 98.13737893104553
+Rank 0, Epoch 2, Batch 5, Loss: 0.32396310567855835, Accuracy: 0.7658002038735984 ,Time: 98.22471237182617
+Rank 0, Epoch 3, Batch 5, Loss: 0.14571478962898254, Accuracy: 0.8063837920489296 ,Time: 97.99451112747192
+Rank 0, Epoch 4, Batch 5, Loss: 0.17753371596336365, Accuracy: 0.8282874617737003 ,Time: 97.93173551559448
+Training completed in 498.15 seconds.
+Training Complete on Rank 0.
+Model saved on Rank 0.
